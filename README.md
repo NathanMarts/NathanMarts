@@ -1,20 +1,37 @@
-# Olá, me chamo Natã Martins! 
-## Bem vindo ao meu perfil do GitHub 👋
+# Natã Lopes Martins
 
-Sou Engenheiro de Software PL, altamente motivado em desenvolvimento fullstack, com habilidades em diversas linguagens de programação front-end e back-end. Possuo um forte interesse em aprimorar minhas habilidades em desenvolvimento de software e entregar projetos de alta qualidade. Procurando continuamente maneiras de melhorar o processo de desenvolvimento e entrega de software. Buscando constantemente desafios e oportunidades para aprender, crescer e desenvolver minha carreira em desenvolvimento fullstack.
+## Software Engineer
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
+I build software end to end, from requirements and domain modeling to architecture, testing, and maintenance.
 
-<div>
-<a href="https://github.com/NathanMarts">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMarts&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanMarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Professional Experience
 
-## Contatos:
+**Software Engineer | Mid-level (Pleno)**
 
-<div>
-  <a href = "mailto:contato@natanlop93"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nata-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+I develop and maintain software systems, contributing to architecture, integration, code quality, and technical decisions.
+
+## Featured project
+
+### [Biblioteca RPC (Library Lending System)](https://github.com/NathanMarts/biblioteca-rpc)
+
+A distributed library lending system built with TypeScript and Node.js. It models books, copies, users, and loans, and exposes the domain through a gRPC API defined with Protocol Buffers and backed by SQLite.
+
+- Uses TLS and authenticated gRPC calls to protect client-server communication.
+- Applies database transactions and idempotency keys to handle concurrent requests and safe retries.
+- Includes integration tests that exercise the service through its RPC client.
+- Documents architecture decisions, domain rules, setup, and API behavior.
+
+## More projects
+
+- [ByteBlog](https://github.com/NathanMarts/ByteBlog-Project) — A server-rendered blog built with AdonisJS and TypeScript, with user authentication, permissions, posts, comments, and comment replies.
+- [GitHub API Project](https://github.com/NathanMarts/API-Github-Project) — A React and TypeScript application that integrates with the GitHub API to display profiles, repositories, followers, and following lists.
+
+## Tools
+
+**Systems:** TypeScript, Node.js, gRPC, Protocol Buffers, SQLite
+
+**Web applications:** React, AdonisJS, Alpine.js, Tailwind CSS, Axios, Styled Components
+
+## Contact
+
+[Gmail](mailto:natanlop93@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nata-lopes)
